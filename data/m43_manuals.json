@@ -1,0 +1,135 @@
+[
+  {
+    "id": "gm1_iso",
+    "camera_model": "GM1",
+    "category": "exposure",
+    "text": "Lumix GM1 รองรับช่วง ISO 200 ถึง 25600 (ขยายลงได้ถึง ISO 100) แนะนำใช้ ISO 200-800 สำหรับการถ่ายภาพทั่วไปเพื่อลดสัญญาณรบกวน",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "gm1_video",
+    "camera_model": "GM1",
+    "category": "video",
+    "text": "บันทึกวิดีโอความละเอียดสูงสุด Full HD (1920x1080) ในรูปแบบ AVCHD และ MP4 (ไม่รองรับการถ่าย 4K)",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "gm1_shutter",
+    "camera_model": "GM1",
+    "category": "shutter",
+    "text": "GM1 มีทั้งชัตเตอร์กลไกและชัตเตอร์อิเล็กทรอนิกส์ ชัตเตอร์กลไกเร็วสุดประมาณ 1/500 วินาที ส่วนชัตเตอร์อิเล็กทรอนิกส์เร็วสุดถึง 1/16,000 วินาที เหมาะกับการใช้เลนส์รูรับแสงกว้างในที่แสงจ้า แต่ควรระวังอาการ Rolling Shutter (ภาพเอียงหรือเบี้ยวเมื่อแพนกล้องเร็วหรือถ่ายวัตถุเคลื่อนที่เร็ว)",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "gh5_vlog",
+    "camera_model": "GH5",
+    "category": "exposure",
+    "text": "การถ่าย V-Log L บนกล้อง Panasonic GH5 ต้องซื้อและติดตั้งชุดอัปเกรดเฟิร์มแวร์ (DMW-SFU1) ก่อนจึงจะใช้โหมดนี้ได้ จากนั้นควรตั้งค่า ISO พื้นฐาน (Base ISO) ที่ 400 เพื่อให้ได้ Dynamic Range สูงที่สุดถึง 12 สต็อป",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "gh5_ibis",
+    "camera_model": "GH5",
+    "category": "stabilization",
+    "text": "ระบบกันสั่น Dual I.S. 2 บน GH5 ทำงานร่วมกันระหว่างกันสั่นในตัวบอดี้ 5 แกน และกันสั่นในเลนส์ Lumix ช่วยลดการสั่นไหวได้สูงสุด 5 สต็อป",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "gh6_prores",
+    "camera_model": "GH6",
+    "category": "codec",
+    "text": "Panasonic GH6 รองรับการบันทึกวิดีโอ Apple ProRes 422 HQ และ ProRes 422 ภายในตัวกล้องลงบนการ์ด CFexpress Type B ที่ความละเอียด 5.7K 30p",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "om1_shutter",
+    "camera_model": "OM-1",
+    "category": "shutter",
+    "text": "สำหรับการถ่ายวิดีโอบน OM-1 เพื่อความสมจริงของ Motion Blur ควรใช้กฎ 180-Degree Shutter Angle โดยค่า Shutter Speed จะเป็น 1/(2 x Frame Rate)",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "om1_log",
+    "camera_model": "OM-1",
+    "category": "exposure",
+    "text": "กล้อง OM System OM-1 รองรับโหมด OM-Log400 สำหรับถ่ายวิดีโอ 10-bit โดยแนะนำให้ตั้ง Base ISO ที่ 400 และใช้ LUT แปลงเป็น Rec.709",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "bmpcc4k_dualiso",
+    "camera_model": "BMPCC4K",
+    "category": "exposure",
+    "text": "Blackmagic Pocket Cinema Camera 4K (BMPCC4K) มี Dual Native ISO ที่ค่า 400 และ 3200 ช่วยให้ถ่ายวิดีโอในที่แสงน้อยได้สัญญาณรบกวนต่ำมาก",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "lens_yongnuo_25mm",
+    "camera_model": "All",
+    "category": "lens",
+    "text": "เลนส์ Yongnuo YN 25mm f/1.7 M43 เป็นเลนส์ Fix ออโต้โฟกัสราคาคุ้มค่า รูรับแสงกว้าง f/1.7 ให้มุมมองเทียบเท่า 50mm บน Full Frame เหมาะสำหรับถ่ายภาพหน้าชัดหลังเบลอ (Bokeh) ถ่ายภาพบุคคล หรือถ่ายวิดีโอในสภาวะแสงน้อย",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "lens_lumix_12_32mm",
+    "camera_model": "All",
+    "category": "lens",
+    "text": "เลนส์ Kit ซูมติดกล้อง Panasonic Lumix G 12-32mm f/3.5-5.6 ASPH MEGA O.I.S. เป็นเลนส์พกพาสะดวก ระยะเทียบเท่า 24-64mm เหมาะสำหรับการถ่ายวิดีโอทั่วไป Vlog หรือท่องเที่ยว แต่ในสภาวะแสงน้อยหรือต้องการหน้าชัดหลังเบลอจะมีข้อจำกัดเนื่องจาก f/3.5-5.6 ไหลตามช่วงซูม",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "lens_lumix_20mm",
+    "camera_model": "All",
+    "category": "lens",
+    "text": "เลนส์ Pancake Panasonic Lumix G 20mm f/1.7 II ASPH. ระยะเทียบเท่า 40mm บน Full Frame คมจัด ให้ความสว่างสูง รูรับแสง f/1.7 ช่วยสร้างหน้าชัดหลังเบลอเนียนสวย เหมาะกับงานถ่ายวิดีโอสถานที่แคบหรือแสงน้อย",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "lens_olympus_12_40mm",
+    "camera_model": "All",
+    "category": "lens",
+    "text": "เลนส์ซูมเกรดโปร M.Zuiko Digital ED 12-40mm f/2.8 PRO ระยะเทียบเท่า 24-80mm บน Full Frame มีรูรับแสงกว้างคงที่ f/2.8 ตลอดช่วงซูม ช่วยให้คุมความสว่างและระยะชัดเท่าเดิมขณะซูม เหมาะกับการถ่ายวิดีโอที่ต้องการความคมชัดระดับมืออาชีพ",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "lens_olympus_45mm",
+    "camera_model": "All",
+    "category": "lens",
+    "text": "เลนส์ Fix ถ่าย Portrait M.Zuiko Digital 45mm f/1.8 ระยะเทียบเท่า 90mm บน Full Frame ระยะเทเลต้นๆ ร่วมกับ f/1.8 ทำให้เบลอฉากหลังได้ละมุน ตัดตัวแบบออกจากฉากหลังได้อย่างโดดเด่น",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "concept_bokeh_shallow_dof",
+    "camera_model": "All",
+    "category": "aperture_guide",
+    "text": "การถ่ายวิดีโอแบบหน้าชัดหลังเบลอ (Shallow Depth of Field) บนระบบ M43 ทำได้โดย: 1. ใช้เลนส์ที่มีรูรับแสงกว้าง (ค่า f/ น้อย เช่น f/1.7, f/1.8, f/2.8) 2. จัดตำแหน่งให้ตัวแบบอยู่ใกล้กล้อง และทิ้งระยะห่างจากฉากหลังให้ไกลที่สุด 3. ใช้เลนส์ระยะทางยาวโฟกัสสูงขึ้น (เช่น 25mm หรือ 45mm ขึ้นไป)",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "concept_deep_dof",
+    "camera_model": "All",
+    "category": "aperture_guide",
+    "text": "การถ่ายวิดีโอแบบชัดทั้งคลิป / ชัดลึก (Deep Depth of Field) เหมาะสำหรับงานทัศนียภาพ (Landscape) หรือ Vlog นำเที่ยว ทำได้โดยการหรี่รูรับแสงลงไปที่ f/4 ถึง f/8 (ไม่แนะนำให้หรี่เกิน f/11-f/16 บน M43 เพราะจะเกิดอาการภาพเบลอจากการเลี้ยวเบนของแสง หรือ Diffraction)",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "concept_exposure_priority",
+    "camera_model": "All",
+    "category": "exposure_guide",
+    "text": "ลำดับขั้นตอนการปรับค่าแสงสำหรับงานวิดีโอเมื่อต้องการลดสัญญาณรบกวน (Noise) และรักษาระดับ ISO ไว้ต่ำสุด: 1. เปิดรูรับแสง (Aperture) ให้กว้างขึ้น (ลดค่า f/ เช่น ปรับจาก f/4 เป็น f/1.7) 2. เพิ่มไฟส่องสว่างในฉาก (เติมไฟ Key Light) 3. ล็อกค่า Shutter Speed ให้ตรงตามกฎ 180-degree rule (เช่น 1/50s สำหรับ 24fps) เพื่อคง Motion Blur ที่เป็นธรรมชาติ 4. ดัน ISO เพิ่มเป็นทางเลือกสุดท้ายหากแสงยังไม่พอ",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "concept_bright_video_nd_filter",
+    "camera_model": "All",
+    "category": "exposure_guide",
+    "text": "การถ่ายวิดีโอกลางแจ้งในที่แสงจ้าโดยใช้เลนส์ f/1.7 หรือ f/1.8 เพื่อทำหน้าชัดหลังเบลอ แสงจะเกิน (Overexposed) ได้ง่าย วิธีแก้ปัญหาโดยไม่ดัน ISO และไม่เสียกฎ 180° Shutter Speed คือการติดฟิลเตอร์ลดแสง Variable ND Filter หน้าเลนส์",
+    "source": "compiled_notes"
+  },
+  {
+    "id": "style_wong_kar_wai",
+    "camera_model": "All",
+    "category": "cinematic_style",
+    "text": "การถ่ายวิดีโอสไตล์ Wong Kar-wai (หว่องกาไว / หว่อง กาไว): 1. ลุคภาพตุกและเบลอย้วยมาจากเทคนิค Step-printing คือถ่ายที่เฟรมเรตต่ำ (เช่น 6-12fps ด้วยโหมด Variable Frame Rate ในกล้องที่รองรับ หรือถ่ายปกติแล้วปรับในโปรแกรมตัดต่อ) แล้วเล่นที่ 24fps ส่วนในโหมดวิดีโอปกติที่ 24fps ชัตเตอร์ช้าสุดคือ 1/24s ตั้งต่ำกว่านี้ไม่ได้ 2. เปิดรูรับแสงกว้างสุด (f/1.4 - f/1.8) และติด Variable ND Filter เพื่อกันแสงเกินในที่สว่าง 3. ปรับ White Balance โทนเย็น (3200K-4000K) หรือเบี่ยงไปทางโทนเขียว/น้ำเงิน 4. ใช้เลนส์ระยะ 12mm-25mm ถ่ายใกล้ตัวแบบเพื่อดึงอารมณ์ความเหงา",
+    "source": "compiled_notes"
+  }
+]
